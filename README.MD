@@ -1,4 +1,4 @@
-🐶 PetShop App
+App
 
 Aplicativo mobile + web desenvolvido com Expo SDK, utilizando NativeWind para estilização com Tailwind e preparado para integração com Supabase como backend.
 
